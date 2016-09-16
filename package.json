@@ -16,8 +16,8 @@
     "url": "https://github.com/Mystist/mystist.git"
   },
   "engines": {
-    "node": ">= 6.5.0",
-    "npm": ">= 3.10.0"
+    "node": ">= 5.11.1",
+    "npm": ">= 	3.8.6"
   },
   "dependencies": {
     "body-parser": "~1.15.1",
