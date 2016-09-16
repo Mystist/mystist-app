@@ -2,8 +2,10 @@
 
 # Contributing
 
-#### Format: 
+#### Format  
 `<type>(<scope>): <subject>`
+#### example  
+`docs(readme): update the note about RC`
 
 * :tada: **feat**: A new feature
 * :bug: **fix**: A bug fix
