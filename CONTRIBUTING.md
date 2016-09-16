@@ -2,6 +2,9 @@
 
 # Contributing
 
+#### Format: 
+`<type>(<scope>): <subject>`
+
 * :tada: **feat**: A new feature
 * :bug: **fix**: A bug fix
 * :memo: **docs**: Documentation only changes
@@ -10,7 +13,8 @@
 * :fire: **refactor**: A code change that neither fixes a bug nor adds a feature
 * :racehorse: **perf**: A code change that improves performance
 * :white_check_mark: **test**: Adding missing tests or correcting existing tests
-* :coffee: **build**: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+* :package: **build**: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
 * :green_heart: **ci**: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+* :coffee: **deployment** Changes for our deployment stuffs
 * :flags: **chore**: Other changes that don't modify `src` or `test` files
 * :beers: **release** When bump version
