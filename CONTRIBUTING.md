@@ -5,7 +5,7 @@
 #### Format  
 `<type>(<scope>): <subject>`
 #### example  
-:memo: `docs(readme): update the note about RC`
+:memo: docs(readme): update the note about RC
 
 * :tada: **feat**: A new feature
 * :bug: **fix**: A bug fix
